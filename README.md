@@ -1,9 +1,9 @@
-# 👋 Olá, eu sou Leonardo Araújo Sixto
+# Olá, eu sou Leonardo Araújo Sixto, Tenho 22 anos.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Estagiário de TI  
-💻 Desenvolvendo aplicações web com PHP  
-📚 Foco em Banco de Dados e lógica de programação  
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Estagiário de TI  
+- Desenvolvendo aplicações web com PHP  
+- Foco em Banco de Dados e lógica de programação  
 
 ---
 
@@ -16,7 +16,7 @@ Tenho total disponibilidade para aprender novas linguagens, tecnologias e proces
 
 ---
 
-## 🛠 Tecnologias que estou estudando
+## Tecnologias que estou estudando
 
 - PHP
 - HTML
@@ -27,29 +27,29 @@ Tenho total disponibilidade para aprender novas linguagens, tecnologias e proces
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-🔹 Conversor de Temperatura em PHP  
-🔹 Questionário com validação de respostas  
-🔹 Bloco de Notas com manipulação de arquivos  
-🔹 Gerador de Tabuada  
-🔹 Calculadora de Desconto  
+- Projeto Memorando CSMB
+- Conversor de Temperatura em PHP  
+- Questionário com validação de respostas  
+- Bloco de Notas com manipulação de arquivos  
+- Calculadora de Desconto  
 
 Todos desenvolvidos como prática dos conhecimentos aprendidos na faculdade e nos estudos individuais.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Busco oportunidade como desenvolvedor júnior ou continuar evoluindo como estagiário na área de desenvolvimento, aprofundando meus conhecimentos em back-end e banco de dados.
 
 ---
 
-## 📫 Contato
+## Contato
 
 LinkedIn: 
 Email: leonardosixto34@gmail.com  
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
