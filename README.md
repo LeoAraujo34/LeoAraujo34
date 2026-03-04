@@ -29,7 +29,7 @@ Tenho total disponibilidade para aprender novas linguagens, tecnologias e proces
 
 ## Projetos em destaque
 
-- Projeto Memorando CSMB
+- Projeto Memorando SMC
 - Conversor de Temperatura em PHP  
 - Questionário com validação de respostas  
 - Bloco de Notas com manipulação de arquivos  
